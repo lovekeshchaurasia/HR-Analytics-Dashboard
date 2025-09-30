@@ -38,3 +38,6 @@ Power BI – data visualization and dashboard design
 Power Query – data cleaning and transformation
 
 Excel/CSV datasets – HR dataset used for analysis
+
+<img width="1370" height="768" alt="image" src="https://github.com/user-attachments/assets/a3827e4b-d454-479b-9dc2-a3ddd72c93b4" />
+
